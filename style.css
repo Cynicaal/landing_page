@@ -37,9 +37,7 @@ body{
     gap: 8px;
     width: 700px;    
 }
-.logo{
-    font-size: 24px;
-    color: #F9FAF8;
+.logo{    
     height: 30px;
     width: auto;
     border-radius: 5px;
